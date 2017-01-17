@@ -17,7 +17,18 @@ Celeste:
  
 
  [https://huezo.github.io/t-rex-runner/rojo.html](https://huezo.github.io/t-rex-runner/rojo.html)
+ 
+ Negro:
+ 
+ [https://huezo.github.io/t-rex-runner/negro.html](https://huezo.github.io/t-rex-runner/negro.html)
+ 
+ Gris:
+ 
+ [https://huezo.github.io/t-rex-runner/gris.html](https://huezo.github.io/t-rex-runner/gris.html)
+ 
+Blanco:
 
+[https://huezo.github.io/t-rex-runner/blanco.html](https://huezo.github.io/t-rex-runner/gris.html)
 
 ##  chromium 
 
