@@ -64,5 +64,8 @@ Morado:
 
 
 
+"
+### blog
 
-[Fork of ](https://github.com/wayou/t-rex-runner)
+[https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+
